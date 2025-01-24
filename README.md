@@ -26,6 +26,7 @@ The project is a great example of DOM manipulation, event handling, and working 
 - Enjoy the game!
 
 ## Screenshots
+![Home Page](https://github.com/pheyboer/piggame/blob/main/piggame.png)
 
 ## Credits
 This project is based on the Pig Game by [Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/) on Udemy. Special thanks to Udemy for providing the platform and Jonas for the course content.
