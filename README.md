@@ -21,7 +21,7 @@ The project is a great example of DOM manipulation, event handling, and working 
 ## Getting Started
 
 ### Installation
-- Clone the repository: git clone git@github.com:pheyboer/piggame.git
+- Clone the repository: ```git clone git@github.com:pheyboer/piggame.git```
 - Open ```index.html``` in your browser to run the application.
 - Enjoy the game!
 
